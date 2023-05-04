@@ -1,0 +1,1 @@
+Imagem de fundo com direcionador de link.

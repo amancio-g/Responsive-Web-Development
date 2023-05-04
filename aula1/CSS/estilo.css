@@ -1,0 +1,17 @@
+/*
+    seletor{
+        propriedade:valor;
+    }
+    cores: inglês;rgb(100,90,20); #hexadecimal
+*/
+p{
+color:yellow;
+
+
+}
+
+.paragrafo{
+
+    font-family: Arial;
+    color: #ff0000;
+}

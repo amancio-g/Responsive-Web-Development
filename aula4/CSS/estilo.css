@@ -1,0 +1,20 @@
+body{
+    background-color:#ff0;
+    background-image:url("../imagens/back.png");
+    /* 
+    background-repeat: possiveis valores
+               * repeat: valor padrão repete a imagem de fundo inumeras vezes até preencher a tela toda" colocando ou não esse propriedade/valor aimagem se repete.
+               * no repeat: a imagemn ão se repete, só exibe uma img de fundo.
+               * repeat-x: a imagem se repete somento no eixo X.
+               * repeat-y: a imagem se repete somento no eixo Y.
+    background-attachement: faz com que a imagem de fundo permançea parada ou não, e recebe os seguintes valores:
+               * scroll: padrão, a imagem sobe e desce de acordo com seu conteúdo
+               * fixed: fixa a imagem no fundo, fazendo ela permanecer parada.           
+
+    */
+
+    background-repeat: repeat;
+    background-attachment:scroll;
+
+
+}
